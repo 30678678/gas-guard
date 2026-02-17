@@ -39,7 +39,7 @@
 
 ## 使用
 
-需要先裝好 Node.js、Git、[@google/clasp](https://github.com/google/clasp)。
+需要先裝好 Node.js、Git。
 
 ```bash
 git clone https://github.com/dawish39/gas-guard.git
